@@ -86,3 +86,11 @@ typings/
 
 # DynamoDB Local files
 .dynamodb/
+
+# angular
+.angular
+/dist
+# Firebase
+.firebase
+*-debug.log
+.runtimeconfig.json
